@@ -1,0 +1,28 @@
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirstoreTest.services.deps.json
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirstoreTest.services.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirstoreTest.services.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.csprojAssemblyReference.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.AssemblyInfoInputs.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.AssemblyInfo.cs
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.csproj.CoreCompileInputs.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.csproj.CopyComplete
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirstoreTest.services.deps.json
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirstoreTest.services.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirstoreTest.services.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.csprojAssemblyReference.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.AssemblyInfoInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.AssemblyInfo.cs
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.csproj.CoreCompileInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.csproj.CopyComplete
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirstoreTest.services\obj\Debug\netcoreapp3.1\FirstoreTest.services.pdb

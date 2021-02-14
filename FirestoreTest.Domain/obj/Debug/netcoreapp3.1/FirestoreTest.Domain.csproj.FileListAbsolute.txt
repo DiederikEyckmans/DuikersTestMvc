@@ -1,0 +1,18 @@
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.deps.json
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.csprojAssemblyReference.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.AssemblyInfo.cs
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.deps.json
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.csprojAssemblyReference.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.AssemblyInfoInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.AssemblyInfo.cs
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.Domain\obj\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb

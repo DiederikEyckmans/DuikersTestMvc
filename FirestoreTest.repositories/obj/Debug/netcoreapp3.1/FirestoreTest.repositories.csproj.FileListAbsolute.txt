@@ -1,0 +1,24 @@
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.deps.json
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.csprojAssemblyReference.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.AssemblyInfoInputs.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.AssemblyInfo.cs
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.csproj.CoreCompileInputs.cache
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\Arno\Documents\School\2e jaar\Practise Enterprise\FirestoreTest\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.csproj.CopyComplete
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.deps.json
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.repositories.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\bin\Debug\netcoreapp3.1\FirestoreTest.Domain.pdb
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.csprojAssemblyReference.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.AssemblyInfoInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.AssemblyInfo.cs
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.csproj.CoreCompileInputs.cache
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.csproj.CopyComplete
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.dll
+C:\Users\diede\OneDrive - Hogeschool VIVES\Hoger\2e jaar\PRAC ENTER\WEB\TryOut\firebase_mvc_test\FirestoreTest.repositories\obj\Debug\netcoreapp3.1\FirestoreTest.repositories.pdb

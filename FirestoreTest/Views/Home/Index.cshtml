@@ -1,0 +1,94 @@
+﻿@model IEnumerable<FirestoreTest.Domain.Duiker>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.adres)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.geboorteDatum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gemeente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.heeftBeperking)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isBegeleider)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.naam)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.postcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gsm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nummerplaten)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.adres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.geboorteDatum)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gemeente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.heeftBeperking)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isBegeleider)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.naam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.postcode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gsm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nummerplaten)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
